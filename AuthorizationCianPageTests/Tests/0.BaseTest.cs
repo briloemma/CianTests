@@ -26,7 +26,7 @@ namespace AuthorizationCianPageTests
             _webdriver.Manage().Cookies.DeleteAllCookies();
             _webdriver.Navigate().GoToUrl(TestSettings.HostPrefix);
             _webdriver.Manage().Window.Maximize();
-            //добавить ожидание
+            //добавить ожидание, где ебучее ожидание?????????
         }
       
     }
