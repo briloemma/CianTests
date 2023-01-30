@@ -96,6 +96,6 @@ namespace AuthorizationCianPageTests.Tests
             Assert.IsTrue(loadTime.Seconds < 3, "Page loading takes too much time");
         }
 
-        //some comments
+        //ofofofgkkgkgfmfmfklr
     }
 }
