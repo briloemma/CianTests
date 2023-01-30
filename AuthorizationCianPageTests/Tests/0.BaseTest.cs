@@ -20,7 +20,7 @@ namespace AuthorizationCianPageTests
             _webdriver.Quit();
         }
         [SetUp]
-        protected void DobeforeEachTest()
+        protected void DoBeforeEachTest()
         {
             _webdriver = new ChromeDriver();
             _webdriver.Manage().Cookies.DeleteAllCookies();
